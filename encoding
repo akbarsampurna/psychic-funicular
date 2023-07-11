@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-2862040124-4079485462-896008920-1000</user>
+  <keys>
+    <key installerType="Msi" displayName="GLPI Agent 1.5" displayVersion="1.5">
+      <RegistryView>Registry64</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AACB13FD-6BF5-1014-8857-9DC1274EEC25}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[C:\Program Files\GLPI-Agent\]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{AACB13FD-6BF5-1014-8857-9DC1274EEC25}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Teclib']]></Publisher>
+      <InstallDate>20230711</InstallDate>
+      <InstallSource><![CDATA[C:\Users\vagrant\AppData\Local\Temp\chocolatey\glpi-agent\1.5.0\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>17104896</Version>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\Windows\Installer\408ba.msi]]></LocalPackage>
+    </key>
+  </keys>
+</registrySnapshot>
